@@ -1,0 +1,12 @@
+.pos{
+    text-align: center;
+}
+
+.p3{
+  position:absolute;
+  width:850px;
+  height:460px;
+  bottom:0px;
+  right:20%;
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+.pos{
+  position:absolute;
+  width:800px;
+  height:600px;
+  bottom:70px;
+  right:12%;
+  text-align: center;
+    
+}
+
+.poster{
+  position:absolute;
+  width:800px;
+  height:600px;
+  bottom:20px;
+  right:12%;
+  text-align: center;
+}
